@@ -19,7 +19,16 @@ public class CourseDetails {
 		
 	}
 
+	private void methodm1() {
+		System.out.println("m1");
 
+}
+	private void methodm2() {
+		
+		
+		System.out.println("m2");
+	}
+	
 
 
 
